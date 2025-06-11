@@ -73,7 +73,7 @@ You can use a custom PowerPoint template by placing a `template.pptx` file in th
 
 ```bash
 # Generate a presentation about Python
-python -m src.cli generate --text "Introduction to Python Programming. Python is a high-level programming language. It is known for its simplicity and readability. Python has a large standard library. It is widely used in web development, data science, and AI." --output python_intro.pptx
+python -m src.cli generate --text "Introduction to Bitcoin and it's future potential" --output Bitcoin-slides.md
 ```
 
 ## Output
