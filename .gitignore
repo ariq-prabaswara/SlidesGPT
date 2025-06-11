@@ -26,6 +26,7 @@ build/
 *.pptx
 *.md
 !README.md
+.msi
 
 # Logs
 *.log
